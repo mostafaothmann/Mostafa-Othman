@@ -7,7 +7,7 @@ Front End Developer
 Coding is just like an art for me, I don't like to spend a continued 12 hours on something but writing code and thinking of the best technologies to use in the system that I develop.
 
 * 🌍  I'm based in Syria
-* ✉️  You can contact me at [othmanmostafa373@gmail.com](mailto:othmanmostafa373@gmail.com)
+* ✉️  You can contact me at [moustafa.othman.it@gmail.com](mailto:moustafa.othman.it@gmail.com)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Creative Projects
 
